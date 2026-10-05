@@ -1,3 +1,5 @@
+## [2.0.2](https://github.com/saksbhardwaj/skills/compare/content-driven-development-v2.0.1...content-driven-development-v2.0.2) (2026-10-05)
+
 ## [2.0.1](https://github.com/adobe/skills/compare/content-driven-development-v2.0.0...content-driven-development-v2.0.1) (2026-05-29)
 
 
